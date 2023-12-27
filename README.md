@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+✍ [Blog & Writing](https://cobokjang.tistory.com/)
 
 🔧 Technologies & Tools 🔧
 -----------------------------------------------
