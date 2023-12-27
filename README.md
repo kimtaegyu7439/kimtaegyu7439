@@ -16,5 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Tensorflow-%23FF6F00%20?style=round&logo=Tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=round&logo=Python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Tensorflow-%23FF6F00%20?style=round&logo=Tensorflow&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Pytorch-%23EE4C2C?style=round&logo=Pytorch&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?style=round&logo=JavaScript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Springboot-%236DB33F?style=round&logo=Springboot&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?style=round&logo=C&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=round&logo=Css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=round&logo=HTML5&logoColor=white)
+
