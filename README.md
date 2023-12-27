@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ✍ Blog & Writing
 -----------------------------------------------
-I also maintain a [PS Blog](https://cobokjang.tistory.com/) The goal of my blog is to help developers or IT enthusiasts find answers to their coding problems.[PS Blog](https://cobokjang.tistory.com/)
+I also maintain a [PS Blog](https://cobokjang.tistory.com/) The goal of my blog is to help developers or IT enthusiasts find answers to their coding problems.
 
 🔧 Technologies & Tools 🔧
 -----------------------------------------------
