@@ -14,7 +14,7 @@
  - 2023 National Institute of Korean Language AI Language Proficiency Assessment: Story Completion Task
 <br/>
 <br/>
- - Changwon Big Data Competition 3rd
+ - Changwon Big Data Competition Changwon Mayor Award
 <br/>
 <br/>
  - Gachon Univ. GDSC (2023.08~ )
