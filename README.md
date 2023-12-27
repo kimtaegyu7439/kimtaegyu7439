@@ -1,11 +1,16 @@
 👋 Hi Guys!
 ----------------------------
 
+
 My name is Tae-gyu Kim and I am a student at Gachon University.
+
+
 
 📨 Contact
 
-Email | [sa090180@gmail.com](sa090180@gmail.com)
+Email | sa090180@gmail.com
+
+
 
 <!--
 **kimtaegyu7439/kimtaegyu7439** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
