@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-![Static Badge](https://img.shields.io/badge/Tensorflow-%23FF6F00%20?style=round&logo=Tensorflow&logoColor=white)
+<img alt="Static Badge" src="https://img.shields.io/badge/Tensorflow-%23FF6F00%20?style=round&logo=Tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
