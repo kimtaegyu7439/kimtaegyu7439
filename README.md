@@ -5,16 +5,16 @@
 <br/>
 <br/>
 <br/>
-- Gachon Univ. Dept of Ai, '20.03 ~ '26.02 (Expected graduation date)
+ - Gachon Univ. Dept of Ai, '20.03 ~ '26.02 (Expected graduation date)
 <br/>
 <br/>
-- DACON 2023 Drug Development AI Competition
+ - DACON 2023 Drug Development AI Competition
 <br/>
 <br/>
-- Changwon Big Data Competition 3rd
+ - Changwon Big Data Competition 3rd
 <br/>
 <br/>
-- Gachon Univ. GDSC (2023.08~ )
+ - Gachon Univ. GDSC (2023.08~ )
 <br/>
 <br/>
 <br/>
