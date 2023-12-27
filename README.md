@@ -7,9 +7,12 @@
 <br/>
 - Gachon Univ. Dept of Ai, '20.03 ~ '26.02 (Expected graduation date)
 <br/>
+<br/>
 - DACON 2023 Drug Development AI Competition
 <br/>
+<br/>
 - Changwon Big Data Competition 3rd
+<br/>
 <br/>
 - Gachon Univ. GDSC (2023.08~ )
 
@@ -25,7 +28,7 @@ Email | sa090180@gmail.com
 
 🎯 Interest
 <br/>
-<br/>
+
 - Problem Solving
 - Deep learning, Data Science
 <br/>
