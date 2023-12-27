@@ -39,6 +39,14 @@ I also maintain a [PS Blog](https://cobokjang.tistory.com/) The goal of my blog 
 <br/>
 <br/>
 
+![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?style=round&logo=C&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=round&logo=Css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=round&logo=HTML5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MYSQL-%234479A1?style=round&logo=MYSQL&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Notion-%23000000?style=round&logo=Notion&logoColor=white)
+![Static Badge](https://img.shields.io/badge/github-%23181717?style=round&logo=github&logoColor=white)
+
+
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=round&logo=Python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tensorflow-%23FF6F00%20?style=round&logo=Tensorflow&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Pytorch-%23EE4C2C?style=round&logo=Pytorch&logoColor=white)
@@ -52,6 +60,7 @@ I also maintain a [PS Blog](https://cobokjang.tistory.com/) The goal of my blog 
 ![Static Badge](https://img.shields.io/badge/MYSQL-%234479A1?style=round&logo=MYSQL&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Notion-%23000000?style=round&logo=Notion&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/github-%23181717?style=round&logo=github&logoColor=white)
+
 <br/>
 <br/>
 
