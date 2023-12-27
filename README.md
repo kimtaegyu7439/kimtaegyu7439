@@ -34,4 +34,6 @@ I also maintain a [PS Blog](https://cobokjang.tistory.com/) The goal of my blog 
 ![Static Badge](https://img.shields.io/badge/MYSQL-%234479A1?style=round&logo=MYSQL&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Notion-%23000000?style=round&logo=Notion&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/github-%23181717?style=round&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+
 
