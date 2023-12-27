@@ -2,7 +2,14 @@
 ----------------------------
 <br/>
 <br/>
-My name is Tae-gyu Kim and I am a student at Gachon University.
+🎓 Education / Experiences
+Gachon Univ. Dept of Ai, '20.03 ~ '26.02 (Expected graduation date)
+
+DACON 2023 Drug Development AI Competition
+
+Changwon Big Data Competition 3rd
+
+Gachon Univ. GDSC (2023.08~ )
 
 <br/>
 <br/>
@@ -63,8 +70,8 @@ I also maintain a [PS Blog](https://cobokjang.tistory.com/) The goal of my blog 
 ----------------------------------------------
 <br/>
 <br/>
-2023 창원 빅데이터 공모전 창원시장상
 <br/>
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sa090180)](https://solved.ac/profile/sa090180)
 
