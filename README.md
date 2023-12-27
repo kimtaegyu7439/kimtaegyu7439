@@ -24,4 +24,7 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?style=round&logo=C&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=round&logo=Css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=round&logo=HTML5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MYSQL-%234479A1?style=round&logo=MYSQL&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Notion-%23000000?style=round&logo=Notion&logoColor=white)
+![Static Badge](https://img.shields.io/badge/github-%23181717?style=round&logo=github&logoColor=white)
 
