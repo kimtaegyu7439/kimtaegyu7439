@@ -11,6 +11,9 @@
  - DACON 2023 Drug Development AI Competition
 <br/>
 <br/>
+ - 2023 National Institute of Korean Language AI Language Proficiency Assessment: Story Completion Task
+<br/>
+<br/>
  - Changwon Big Data Competition 3rd
 <br/>
 <br/>
