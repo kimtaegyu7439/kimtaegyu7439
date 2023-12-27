@@ -8,10 +8,19 @@ My name is Tae-gyu Kim and I am a student at Gachon University.
 <br/>
 📨 Contact
 <br/>
+<br/>
 Email | sa090180@gmail.com
 <br/>
 <br/>
 
+
+🎯 Interest
+<br/>
+<br/>
+- Problem Solving
+- Deep learning, Data Science
+<br/>
+<br/>
 <!--
 **kimtaegyu7439/kimtaegyu7439** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
