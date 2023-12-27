@@ -1,8 +1,8 @@
 👋 Hi Guys!
 ----------------------------
 <br/>
-<br/>
 🎓 Education / Experiences
+<br/>
 <br/>
 <br/>
 - Gachon Univ. Dept of Ai, '20.03 ~ '26.02 (Expected graduation date)
