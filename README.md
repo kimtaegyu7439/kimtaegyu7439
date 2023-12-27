@@ -15,13 +15,14 @@
 <br/>
 <br/>
 - Gachon Univ. GDSC (2023.08~ )
-
+<br/>
 <br/>
 <br/>
 📨 Contact
 <br/>
 <br/>
 Email | sa090180@gmail.com
+<br/>
 <br/>
 <br/>
 
@@ -31,6 +32,7 @@ Email | sa090180@gmail.com
 
 - Problem Solving
 - Deep learning, Data Science
+<br/>
 <br/>
 <br/>
 
