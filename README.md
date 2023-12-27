@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-🔧 ### Technologies & Tools
+🔧 Technologies & Tools 🔧
 -----------------------------------------------
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=round&logo=Python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tensorflow-%23FF6F00%20?style=round&logo=Tensorflow&logoColor=white)
