@@ -17,6 +17,9 @@
  - Changwon Big Data Competition Changwon Mayor Award
 <br/>
 <br/>
+ - 2024 Google solution chellange TOP 100
+<br/>
+<br/>
  - Gachon Univ. GDSC (2023.08~ )
 <br/>
 <br/>
