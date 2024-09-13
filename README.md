@@ -23,7 +23,7 @@
  - Gachon Univ. GDSC member (2023.08~ 2024.06)
 <br/>
 <br/>
- - 2023 National Institute of Korean Language AI Language Proficiency Assessment: Dialog Summerization Task Gold Award
+ - 2024 National Institute of Korean Language AI Language Proficiency Assessment: Dialog Summerization Task Gold Award
 <br/>
 <br/>
  - Gachon Univ. GDSC Core member (2024.07~ )
