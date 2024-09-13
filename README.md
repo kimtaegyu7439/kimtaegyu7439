@@ -20,10 +20,14 @@
  - 2024 Google solution chellange TOP 100
 <br/>
 <br/>
- - Gachon Univ. GDSC (2023.08~ )
+ - Gachon Univ. GDSC member (2023.08~ 2024.06)
 <br/>
 <br/>
 <br/>
+ - 2023 National Institute of Korean Language AI Language Proficiency Assessment: Dialog Summerization Task Gold Award
+<br/>
+<br/>
+ - Gachon Univ. GDSC Core member (2024.07~ )
 📨 Contact
 <br/>
 <br/>
