@@ -27,6 +27,8 @@
 <br/>
 <br/>
  - Gachon Univ. GDSC Core member (2024.07~ )
+<br/>
+<br/>
 📨 Contact
 <br/>
 <br/>
